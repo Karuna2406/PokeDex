@@ -34,7 +34,6 @@ Click [here](#) to see the live demo of the Pokédex project.
 2. **Browse details**, including types, stats, and description.
 3. Use the **arrows** to switch between Pokémon.
 
-![Pokedex Preview](https://media.giphy.com/media/3o6wrvdHFbwBrUFenu/giphy.gif)
 
 ---
 
