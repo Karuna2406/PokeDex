@@ -2,7 +2,7 @@
 The PokeDex device from the famous animated show Pokemon.
 # Pokédex Project :zap:
 
-![Pokemon Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
 
 Welcome to the **Pokédex** project! This project is a dynamic web application built to fetch and display details about your favorite Pokémon from the [PokéAPI](https://pokeapi.co/).
 
